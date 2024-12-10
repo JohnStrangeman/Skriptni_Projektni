@@ -1,0 +1,11 @@
+header {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    max-width: fit-content;
+    margin-inline: auto;
+}
+
+#player_ranking {
+
+}
