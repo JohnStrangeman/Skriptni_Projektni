@@ -9,26 +9,37 @@ class Player {
     }
 }
 
-var Players = [];
+let Players = [];
+
+function LoadPlayers() {
+    fetch('./Players.json')
+    .then((response) => response.json())
+    .then((json) => {
+        json.forEach((player) => {
+            Players.push(new Player(player.Rank, player.Region, player.Name, player.Age, player.Tournaments, player.Points));
+        });
+        PopulateTable(Players);
+    });
+}
 
 function PopulateTable(listPlayers) {
     let table = document.getElementById("player_ranking");
-    LoadPlayers();
+
+    if(table.childElementCount > 1) {
+        while (table.childElementCount > 1) {
+            table.removeChild(table.lastElementChild);
+        }
+    }
+
     listPlayers.forEach(player => {
         table.appendChild(CreateRows(player));
     });
-    alert('Table filled');
 }
 
-function LoadPlayers() {
-    fetch('./data.json')
-    .then((response) => response.json())
-    .then((json) => Players = JSON.parse(json));
-    alert('Json loaded');
-}
 
 function CreateRows(player) {
     let row = document.createElement("tr");
+    row.class = 'players';
     
     let cellRank = document.createElement("td");
     let cellRegion = document.createElement("td");
@@ -62,7 +73,6 @@ function CreateRows(player) {
 }
 
 function SearchPlayers() {
-    LoadPlayers();
     let search = document.getElementById("name").value;
     let results = [];
     Players.forEach(player => {
@@ -71,6 +81,6 @@ function SearchPlayers() {
             results.push(player);
         }
     });
-    alert('found' + results.length + 'results');
+
     PopulateTable(results);
 }

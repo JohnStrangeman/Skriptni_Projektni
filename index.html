@@ -6,13 +6,13 @@
     <link rel="stylesheet" href="style.css">
     <title>WTA</title>
 </head>
-<body onload="PopulateTable(Players);">
+<body onload="LoadPlayers();">
     <header>
         <h1>WTA</h1>
     </header>
     <main>
         <table id="player_ranking">
-            <tr>
+            <tr id="tableHead">
                 <th>Rank</th>
                 <th>Region</th>
                 <th>Player</th>
@@ -30,6 +30,7 @@
     <footer>
 
     </footer>
+    <script src="Players.json"></script>
     <script src="script.js"></script>
 </body>
 </html>
