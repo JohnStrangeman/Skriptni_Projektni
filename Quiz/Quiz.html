@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="quiz.css">
+    <title>Image Gallery</title>
+    <h1>Quiz</h1>
+</head>
+
+<body onload="score()">
+    <main>
+        <nav>
+            <a href="">
+                <button class="beautiful-button">
+                    Glavna Stranica
+                  </button>
+            </a>
+            <a href="../Galerija/galerija.html">
+                <button class="beautiful-button">
+                    Galerija
+                  </button>
+            </a>
+            <a href="Quiz.html">
+                <button class="beautiful-button">
+                    Quiz
+                  </button>
+            </a>
+         </nav>   
+    
+    <div id="Question1">
+        <form>
+            <h3>1.What is the minimum number of points a player must win to win a game in tennis?</h3><br>
+            <label for="a">3 points</label>
+            <input type="radio" id="a" name="Question1" value="3"><br>
+            <label for="b">4 points</label>
+            <input type="radio" id="b" name="Question1" value="4"><br>
+            <label for="c">6 points</label>
+            <input type="radio" id="c" name="Question1" value="6"><br>
+            <label for="d">7 points</label>
+            <input type="radio" id="d" name="Question1" value="7"><br>
+            <button onclick="submitQ1()">Submit</button>
+        </form>
+    </div>
+
+    
+    
+
+    <div id="back">
+        <button onclick="back()" class="beautiful-button">Back</button>
+    </div>
+    <div id="forward">
+        <button onclick="forward()" class="beautiful-button">Forward</button>
+    </div>
+    </main> 
+    <footer>
+        <p id="score">
+
+        </p><br>
+        <p>Izradili: Ivan Stranjak i Ivan Rimac</p>
+    </footer>
+    <script src="quiz.js"></script>
+</body>
+
+</html>
