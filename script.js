@@ -32,15 +32,22 @@ function PopulateTable(listPlayers) {
     }
 
     listPlayers.forEach(player => {
-        table.appendChild(CreateRows(player));
+        table.appendChild(CreateRows(player, table.childElementCount));
     });
 }
 
 
-function CreateRows(player) {
+function CreateRows(player, n) {
     let row = document.createElement("tr");
     row.class = 'players';
-    
+    row.id = 'row' + n;
+    row.onmouseover = function() {
+        document.getElementById(row.id).style.opacity = 0.7;
+    };
+    row.onmouseleave = function() {
+        document.getElementById(row.id).style.opacity = 1;
+    };
+
     let cellRank = document.createElement("td");
     let cellRegion = document.createElement("td");
     let cellName = document.createElement("td");
@@ -83,4 +90,12 @@ function SearchPlayers() {
     });
 
     PopulateTable(results);
+}
+
+function RowOpacityIn(id) {
+    document.getElementById(id).style.opacity = 0.8;
+}
+
+function RowOpacityOut(id) {
+    document.getElementById(id).style.opacity = 1;
 }
