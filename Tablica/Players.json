@@ -1,0 +1,91 @@
+[
+    {
+        "Rank": "1",
+        "Region": "N/A",
+        "Name": "Aryna Sabalenka",
+        "Age": "26",
+        "Tournaments": "21",
+        "Points": "9416"
+    },
+
+    {
+        "Rank": "2",
+        "Region": "Poland",
+        "Name": "Iga Swiatek",
+        "Age": "23",
+        "Tournaments": "18",
+        "Points": "8295"
+    },
+
+    {
+        "Rank": "3",
+        "Region": "USA",
+        "Name": "Coco Gauff",
+        "Age": "20",
+        "Tournaments": "22",
+        "Points": "6530"
+    },
+
+    {
+        "Rank": "4",
+        "Region": "Italy",
+        "Name": "Jasnime Paolini",
+        "Age": "28",
+        "Tournaments": "20",
+        "Points": "5344"
+    },
+
+    {
+        "Rank": "5",
+        "Region": "China",
+        "Name": "Qinwen Zheng",
+        "Age": "22",
+        "Tournaments": "21",
+        "Points": "5340"
+    },
+
+    {
+        "Rank": "6",
+        "Region": "Kazahstan",
+        "Name": "Elena Rybakina",
+        "Age": "25",
+        "Tournaments": "20",
+        "Points": "5171"
+    },
+
+    {
+        "Rank": "7",
+        "Region": "USA",
+        "Name": "Jessica Pagula",
+        "Age": "30",
+        "Tournaments": "19",
+        "Points": "4705"
+    },
+
+    {
+        "Rank": "8",
+        "Region": "USA",
+        "Name": "Emma Navarro",
+        "Age": "23",
+        "Tournaments": "25",
+        "Points": "3589"
+    },
+
+    {
+        "Rank": "9",
+        "Region": "N/A",
+        "Name": "Daria Kasatkina",
+        "Age": "27",
+        "Tournaments": "24",
+        "Points": "3368"
+    },
+
+    {
+        "Rank": "10",
+        "Region": "Czechia",
+        "Name": "Barbora Krejcikova",
+        "Age": "28",
+        "Tournaments": "17",
+        "Points": "3214"
+    }
+]
