@@ -23,17 +23,51 @@ nav button{
 
 body{
   margin: 0;
-  background-color: black;
-  color: white;
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin: 20px;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
 }
 
 main{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+#back{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+#back button{
+  width: 100%;
+  height: 100%;
+}
+
+#forward{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+#forward button{
+  width: 100%;
+  height: 100%;
+}
+.glavni{
+  font-size: 40px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
 }
 
 .beautiful-button {

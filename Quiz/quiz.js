@@ -68,3 +68,10 @@ let userName = "";
                 document.getElementById(`question${i}`).style.display = "none";
             }
         }
+
+function back(){
+    window.history.back();
+}
+function forward(){
+     window.history.forward();
+}

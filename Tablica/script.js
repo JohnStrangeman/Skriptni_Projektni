@@ -99,3 +99,10 @@ function RowOpacityIn(id) {
 function RowOpacityOut(id) {
     document.getElementById(id).style.opacity = 1;
 }
+
+function back(){
+    window.history.back();
+}
+function forward(){
+    window.history.forward();
+}

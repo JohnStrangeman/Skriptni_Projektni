@@ -8,7 +8,7 @@
 </head>
 <body onload="LoadPlayers();">
     <header>
-        <h1>WTA</h1>
+        <h1 class="glavni">WTA</h1>
     </header>
     <main>
         <nav>
@@ -43,6 +43,12 @@
             <input type="text" id="name">
             <input type="button" value="Search" onclick="SearchPlayers();">
         </form>
+        <div id="back">
+            <button onclick="back()" class="beautiful-button">Back</button>
+        </div>
+        <div id="forward">
+            <button onclick="forward()" class="beautiful-button">Forward</button>
+        </div>
     </main>
     <footer>
 
