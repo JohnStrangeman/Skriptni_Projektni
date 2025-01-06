@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>WTA</title>
+</head>
+<body onload="LoadPlayers();">
+    <header>
+        <h1>WTA</h1>
+    </header>
+    <main>
+        <nav>
+            <a href="index.html">
+                <button class="beautiful-button">
+                    Glavna Stranica
+                  </button>
+            </a>
+            <a href="../Galerija/galerija.html">
+                <button class="beautiful-button">
+                    Galerija
+                  </button>
+            </a>
+            <a href="../Quiz/Quiz.html">
+                <button class="beautiful-button">
+                    Quiz
+                  </button>
+            </a>
+         </nav>
+        <table id="player_ranking">
+            <tr id="tableHead">
+                <th>Rank</th>
+                <th>Region</th>
+                <th>Player</th>
+                <th>Age</th>
+                <th>Tournaments</th>
+                <th>Points</th>
+            </tr>
+        </table>
+
+        <form action="search">
+            <input type="text" id="name">
+            <input type="button" value="Search" onclick="SearchPlayers();">
+        </form>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="Players.json"></script>
+    <script src="script.js"></script>
+</body>
+</html>

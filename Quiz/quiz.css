@@ -61,6 +61,7 @@ nav{
     display: flex;
     justify-content: space-evenly;
     width: 100%;
+    margin: 0;
 }
 nav button{
     width: auto;
@@ -71,6 +72,9 @@ body{
     margin: 0;
     background-color: black;
     color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
 }
 
 main{
@@ -131,4 +135,14 @@ p{
     left: 50%;
     bottom: 20px;
     color: white;
+}
+#quiz-container {
+  display: none;
+}
+.question {
+  margin: 20px 0;
+}
+#final{
+  display: flex;
+  justify-content: center;
 }
