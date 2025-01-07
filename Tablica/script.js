@@ -99,3 +99,34 @@ function RowOpacityIn(id) {
 function RowOpacityOut(id) {
     document.getElementById(id).style.opacity = 1;
 }
+
+function back(){
+    window.history.back();
+}
+function forward(){
+    window.history.forward();
+}
+
+let image = document.getElementById('wta');
+let position = 0;  
+let maxPosition = window.innerWidth - image.width; 
+let check = false;
+
+function moveImage() {
+    if (check===false) {
+        position += 10;
+        image.style.left = position + 'px';
+        setTimeout(moveImage, 24);
+        if(position>=maxPosition){
+            check=true;
+        }  
+    }
+    else{
+        position -= 10;
+        image.style.left = position + 'px';
+        setTimeout(moveImage, 24);  
+        if(position<=0){
+            check=false;
+        }
+    }
+}

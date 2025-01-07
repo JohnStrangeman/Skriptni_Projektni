@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="quiz.css">
+    <title>Image Gallery</title>
+    <h1 class="glavni">Quiz</h1>
+</head>
+
+<body>
+    <main>
+    <h1>Welcome to the Tennis Quiz</h1>
+
+    <nav>
+        <a href="../Tablica/index.html">
+            <button class="beautiful-button">
+                Glavna Stranica
+              </button>
+        </a>
+        <a href="../Galerija/galerija.html">
+            <button class="beautiful-button">
+                Galerija
+              </button>
+        </a>
+        <a href="Quiz.html">
+            <button class="beautiful-button">
+                Quiz
+              </button>
+        </a>
+     </nav>
+
+    <p id="score"></p>
+    <button id="startButton" onclick="startQuiz()" class="beautiful-button">Start Quiz</button>
+
+    <div id="quiz-container">
+        <div class="question" id="question1">
+            <h3>1. What is the minimum number of points a player must win to win a game in tennis?</h3>
+            <button onclick="submitAnswer(1, '3')" class="beautiful-button">A) 3 points</button>
+            <button onclick="submitAnswer(1, '4')" class="beautiful-button">B) 4 points</button>
+            <button onclick="submitAnswer(1, '6')" class="beautiful-button">C) 6 points</button>
+            <button onclick="submitAnswer(1, '7')" class="beautiful-button">D) 7 points</button>
+        </div>
+        <div class="question" id="question2" style="display: none;">
+            <h3>2. In tennis, what is the score called when the game is tied at 40-40?</h3>
+            <button onclick="submitAnswer(2, 'Deuce')" class="beautiful-button">A) Deuce</button>
+            <button onclick="submitAnswer(2, 'Advantage')" class="beautiful-button">B) Advantage</button>
+            <button onclick="submitAnswer(2, 'Love')" class="beautiful-button">C) Love</button>
+            <button onclick="submitAnswer(2, 'Break point')" class="beautiful-button">D) Break point</button>
+        </div>
+        <div class="question" id="question3" style="display: none;">
+            <h3>3. How many challenges is each player allowed per set in a standard tennis match?</h3>
+            <button onclick="submitAnswer(3, '1')" class="beautiful-button">A) 1</button>
+            <button onclick="submitAnswer(3, '2')" class="beautiful-button">B) 2</button>
+            <button onclick="submitAnswer(3, '3')" class="beautiful-button">C) 3</button>
+            <button onclick="submitAnswer(3, '4')" class="beautiful-button">D) 4</button>
+        </div>
+        <div class="question" id="question4" style="display: none;">
+            <h3>4. In doubles tennis, which player serves first in the second game of a set?</h3>
+            <button onclick="submitAnswer(4, 'The player who served first in the first game')" class="beautiful-button">A) The player who served first in the first game</button>
+            <button onclick="submitAnswer(4, 'The partner of the player who served first in the first game')" class="beautiful-button">B) The partner of the player who served first in the first game</button>
+            <button onclick="submitAnswer(4, 'The player who served second in the first game')" class="beautiful-button">C) The player who served second in the first game</button>
+            <button onclick="submitAnswer(4, 'Either player, chosen at random')" class="beautiful-button">D) Either player, chosen at random</button>
+        </div>
+        <div class="question" id="question5" style="display: none;">
+            <h3>5. What happens if a player hits the net with their racket while making a shot?</h3>
+            <button onclick="submitAnswer(5, 'The point is replayed')" class="beautiful-button">A) The point is replayed</button>
+            <button onclick="submitAnswer(5, 'The player loses the point')" class="beautiful-button">B) The player loses the point</button>
+            <button onclick="submitAnswer(5, 'The player wins the point')" class="beautiful-button">C) The player wins the point</button>
+            <button onclick="submitAnswer(5, 'The game is automatically over')" class="beautiful-button">D) The game is automatically over</button>
+        </div>
+    </div>
+    
+    <div id="final">
+        <button style="display: none;" id="br" onclick="bravo()" class="beautiful-button">Bravo!</button>
+        <button style="display: none;" id="pp" onclick="PokusajPonovo()" class="beautiful-button">Pokusajte ponovo!</button>
+    </div>
+    
+
+    <div id="back">
+        <button onclick="back()" class="beautiful-button">Back</button>
+    </div>
+    <div id="forward">
+        <button onclick="forward()" class="beautiful-button">Forward</button>
+    </div>
+    </main> 
+    <footer>
+        </p><br>
+        <p>Izradili: Ivan Stranjak i Ivan Rimac</p>
+    </footer>
+    <script src="quiz.js"></script>
+</body>
+
+</html>
