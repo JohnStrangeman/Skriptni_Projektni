@@ -6,28 +6,40 @@
     <link rel="stylesheet" href="style.css">
     <title>WTA</title>
 </head>
-<body onload="LoadPlayers();">
+<body onload="LoadPlayers();moveImage()">
     <header>
         <h1 class="glavni">WTA</h1>
+        <img src="../images/preuzmi.png"  id="wta"  style="left: 0;">
     </header>
+    <nav>
+        <a href="../Tablica/index.html">
+            <button class="beautiful-button">
+                MainPage
+              </button>
+        </a>
+        <a href="../Galerija/galerija.html">
+            <button class="beautiful-button">
+                Galerie
+              </button>
+        </a>
+        <a href="../Quiz/Quiz.html">
+            <button class="beautiful-button">
+                Quiz
+              </button>
+        </a>
+        <a href="../FieldTypes/fields.html">
+            <button class="beautiful-button">
+                FieldTypes
+              </button>
+        </a>
+        <a href="../WomenDetails/Biografy.html">
+            <button class="beautiful-button">
+                WomenBiografy
+              </button>
+        </a>
+     </nav>
     <main>
-        <nav>
-            <a href="index.html">
-                <button class="beautiful-button">
-                    Glavna Stranica
-                  </button>
-            </a>
-            <a href="../Galerija/galerija.html">
-                <button class="beautiful-button">
-                    Galerija
-                  </button>
-            </a>
-            <a href="../Quiz/Quiz.html">
-                <button class="beautiful-button">
-                    Quiz
-                  </button>
-            </a>
-         </nav>
+        
         <table id="player_ranking">
             <tr id="tableHead">
                 <th>Rank</th>
