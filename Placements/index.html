@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Placements</title>
+</head>
+<body onload="LoadPlayers();moveImage()">
+    <header>
+        <h1 class="glavni">Placements</h1>
+        <img src="../images/preuzmi.png"  id="wta"  style="left: 0;">
+    </header>
+    <nav>
+        <a href="../Tablica/index.html">
+            <button class="beautiful-button">
+                Players
+              </button>
+        </a>
+        <a href="index.html"></a>
+            <button class="beautiful-button">
+                Rankings
+              </button>
+            </a> 
+        <a href="../Galerija/galerija.html">
+            <button class="beautiful-button">
+                Galerija
+              </button>
+        </a>
+        <a href="../Quiz/Quiz.html">
+            <button class="beautiful-button">
+                Quiz
+              </button>
+        </a>
+     </nav>
+    <main>
+        
+        <table id="player_ranking">
+            <tr id="tableHead">
+                <th>Player</th>
+                <th onclick="SortRankings();">Rank</th>
+                <th>Tournament</th>
+                <th>Field Type</th>
+                <th onclick="SortYear();">Year</th>
+            </tr>
+        </table>
+
+        <form action="search">
+            <select id="Players">
+                <option value="-">-</option>
+                <option value="Aryna Sabalenka">Aryna Sabalenka</option>
+                <option value="Iga Swiatek">Iga Swiatek</option>
+                <option value="Coco Gauff">Coco Gauff</option>
+                <option value="Jasmine Paolini">Jasmine Paolini</option>
+                <option value="Qinwen Zheng">Qinwen Zheng</option>
+                <option value="Jessica Pegula">Jessica Pegula</option>
+                <option value="Elena Rybakina">Elena Rybakina</option>
+                <option value="Emma Navarro">Emma Navarro</option>
+                <option value="Barbora Krejcikova">Barbora Krejcikova</option>
+                <option value="Daria Kastakina">Daria Kastakina</option>
+            </select>
+            <select id="Tournament">
+                <option value="-">-</option>
+                <option value="Australian Open">Australian Open</option>
+                <option value="Roland Garros">Roland Garros</option>
+                <option value="Wibeldon">Wibeldon</option>
+                <option value="US Open">US Open</option>
+            </select>
+            <select id="FieldType">
+                <option value="-">-</option>
+                <option value="Hard">Hard</option>
+                <option value="Clay">Clay</option>
+                <option value="Grass">Grass</option>
+            </select>
+            <select id="Year">
+                <option value="-">-</option>
+                <option value="2024.">2024.</option>
+                <option value="2023.">2023.</option>
+                <option value="2022.">2022.</option>
+                <option value="2021.">2021.</option>
+                <option value="2020.">2020.</option>
+                <option value="2019.">2019.</option>
+            </select>
+            <input type="button" value="Search" onclick="SearchPlayers();">
+        </form>
+        <div id="back">
+            <button onclick="back()" class="beautiful-button">Back</button>
+        </div>
+        <div id="forward">
+            <button onclick="forward()" class="beautiful-button">Forward</button>
+        </div>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
