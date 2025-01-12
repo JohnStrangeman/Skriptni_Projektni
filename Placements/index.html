@@ -12,11 +12,16 @@
         <img src="../images/preuzmi.png"  id="wta"  style="left: 0;">
     </header>
     <nav>
-        <a href="index.html">
+        <a href="../Tablica/index.html">
             <button class="beautiful-button">
-                Glavna Stranica
+                Players
               </button>
         </a>
+        <a href="index.html"></a>
+            <button class="beautiful-button">
+                Rankings
+              </button>
+            </a> 
         <a href="../Galerija/galerija.html">
             <button class="beautiful-button">
                 Galerija
@@ -32,17 +37,50 @@
         
         <table id="player_ranking">
             <tr id="tableHead">
-                <th>Rank</th>
-                <th>Region</th>
                 <th>Player</th>
-                <th>Age</th>
-                <th>Tournaments</th>
-                <th>Points</th>
+                <th onclick="SortRankings();">Rank</th>
+                <th>Tournament</th>
+                <th>Field Type</th>
+                <th onclick="SortYear();">Year</th>
             </tr>
         </table>
 
         <form action="search">
-            <input type="text" id="name">
+            <select id="Players">
+                <option value="-">-</option>
+                <option value="Aryna Sabalenka">Aryna Sabalenka</option>
+                <option value="Iga Swiatek">Iga Swiatek</option>
+                <option value="Coco Gauff">Coco Gauff</option>
+                <option value="Jasmine Paolini">Jasmine Paolini</option>
+                <option value="Qinwen Zheng">Qinwen Zheng</option>
+                <option value="Jessica Pegula">Jessica Pegula</option>
+                <option value="Elena Rybakina">Elena Rybakina</option>
+                <option value="Emma Navarro">Emma Navarro</option>
+                <option value="Barbora Krejcikova">Barbora Krejcikova</option>
+                <option value="Daria Kastakina">Daria Kastakina</option>
+            </select>
+            <select id="Tournament">
+                <option value="-">-</option>
+                <option value="Australian Open">Australian Open</option>
+                <option value="Roland Garros">Roland Garros</option>
+                <option value="Wibeldon">Wibeldon</option>
+                <option value="US Open">US Open</option>
+            </select>
+            <select id="FieldType">
+                <option value="-">-</option>
+                <option value="Hard">Hard</option>
+                <option value="Clay">Clay</option>
+                <option value="Grass">Grass</option>
+            </select>
+            <select id="Year">
+                <option value="-">-</option>
+                <option value="2024.">2024.</option>
+                <option value="2023.">2023.</option>
+                <option value="2022.">2022.</option>
+                <option value="2021.">2021.</option>
+                <option value="2020.">2020.</option>
+                <option value="2019.">2019.</option>
+            </select>
             <input type="button" value="Search" onclick="SearchPlayers();">
         </form>
         <div id="back">
@@ -55,7 +93,6 @@
     <footer>
 
     </footer>
-    <script src="Players.json"></script>
     <script src="script.js"></script>
 </body>
 </html>

@@ -1,491 +1,1761 @@
 [ 
-    /*
-    https://www.wtatennis.com/players/320760/aryna-sabalenka/#grandslams
-    https://www.wtatennis.com/players/326408/iga-swiatek/#grandslams
-    https://www.wtatennis.com/players/328560/coco-gauff/#grandslams
-    https://www.wtatennis.com/players/319280/jasmine-paolini/#grandslams
-    https://www.wtatennis.com/players/328120/qinwen-zheng/#grandslams
-    https://www.wtatennis.com/players/324166/elena-rybakina/#grandslams
-    https://www.wtatennis.com/players/316956/jessica-pegula/#grandslams
-    https://www.wtatennis.com/players/325410/emma-navarro/#grandslams
-    https://www.wtatennis.com/players/322082/daria-kasatkina/#grandslams
-    https://www.wtatennis.com/players/318314/barbora-krejcikova/#grandslams
-    */
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Rank": "W",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2024."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2023."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2022."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2021."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2020."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2019."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Rank": "QF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
         "Year": "2024."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2023."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2022."
-    },
-
-    {
-        "Player": "",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2021."
-    },
-
-    {
-        "Player": "",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2020."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2019."
-    },    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
         "Year": "2024."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2023."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2022."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2021."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2020."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2019."
+        "Rank": "W",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
     },
     
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2024."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Rank": "W",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2023."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2022."
+        "Rank": "SF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2021."
+        "Rank": "SF",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2020."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2019."
+        "Rank": "F",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
     },
     
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2024."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2023."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2022."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "SF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2021."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "SF",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "SF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2020."
     },
 
     {
         "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "R32",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2019."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Aryna Sabalenka",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R32",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "W",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R32",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "QF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
     },
     
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2024."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Iga Swiatek",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2023."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2022."
+        "Player": "Iga Swiatek",
+        "Rank": "W",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2021."
+        "Player": "Iga Swiatek",
+        "Rank": "QF",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2020."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2019."
+        "Player": "Iga Swiatek",
+        "Rank": "R16",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
     },
     
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2024."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2023."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Iga Swiatek",
+        "Rank": "SF",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2022."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Iga Swiatek",
+        "Rank": "W",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R32",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "W",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2021."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Iga Swiatek",
+        "Rank": "QF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R16",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R16",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2020."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Iga Swiatek",
+        "Rank": "W",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R32",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2019."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R16",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Iga Swiatek",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "SF",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "SF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R16",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R16",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
     },
     
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2024."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Coco Gauff",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2023."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2022."
+        "Player": "Coco Gauff",
+        "Rank": "QF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2021."
+        "Player": "Coco Gauff",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2020."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2019."
+        "Player": "Coco Gauff",
+        "Rank": "W",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
     },
     
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2024."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2023."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Coco Gauff",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2022."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Coco Gauff",
+        "Rank": "F",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R32",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "QF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2021."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Coco Gauff",
+        "Rank": "QF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R16",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2020."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Coco Gauff",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "-",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2019."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "-",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R16",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Coco Gauff",
+        "Rank": "R32",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "F",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "F",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R16",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
     },
     
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
-        "Year": "2024."
-    },
-
-    {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2023."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Jasmine Paolini",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+    
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2022."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2021."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Jasmine Paolini",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
         "Year": "2020."
     },
 
     {
-        "Player": "Aryna Sabalenka",
-        "Rank": "",
-        "Tournament": "",
-        "FieldType": "",
+        "Player": "Jasmine Paolini",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "-",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Jasmine Paolini",
+        "Rank": "-",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "F",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "QF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+    
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "QF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+    
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R16",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R32",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Qinwen Zheng",
+        "Rank": "R32",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "-",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R64",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "F",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+    
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "QF",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "QF",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R16",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+    
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "QF",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "QF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R32",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "QF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "QF",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R64",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R32",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R32",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "-",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Jessica Pegula",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "QF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "SF",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+    
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "F",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "QF",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R32",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+    
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "W",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "QF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R16",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R32",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R32",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "-",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "0",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Elena Rybakina",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "R16",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "QF",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "SF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+    
+    {
+        "Player": "Emma Navarro",
+        "Rank": "-",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+    
+    {
+        "Player": "Emma Navarro",
+        "Rank": "-",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "-",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "-",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "-",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "-",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Emma Navarro",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "QF",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "W",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+    
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R16",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R64",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+    
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "QF",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R64",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "QF",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R128",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R32",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "W",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R16",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "QF",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "R16",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Barbora Krejcikova",
+        "Rank": "-",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R32",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2024."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R64",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2024."
+    },
+    
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R16",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R32",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2023."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R16",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2023."
+    },
+    
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R32",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "SF",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2022."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R64",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R32",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R64",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R32",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2021."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "-",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
+        "Year": "2020."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R128",
+        "Tournament": "Australian Open",
+        "FieldType": "Hard",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R64",
+        "Tournament": "Roland Garros",
+        "FieldType": "Clay",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R128",
+        "Tournament": "Wimbeldon",
+        "FieldType": "Grass",
+        "Year": "2019."
+    },
+
+    {
+        "Player": "Daria Kastakina",
+        "Rank": "R128",
+        "Tournament": "US Open",
+        "FieldType": "Hard",
         "Year": "2019."
     }
 ]
